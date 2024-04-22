@@ -1,0 +1,10 @@
+node_modules/
+bcrypt/
+cookie-parser/
+cors/
+express/
+jsonwebtoken/
+multer/
+mysql/
+nodemon/
+path/
